@@ -32,22 +32,22 @@ let serviceCardData = [
 
 let portCardData = [
     {
-      img: "./assets/images/port-img.webp",
+      img: "public/images/port-img.webp",
       title: "Portfolio Website",
       subtitle: 'Development'
     },
     {
-      img: "./assets/images/shop-cart.webp",
+      img: "public/images/shop-cart.webp",
       title: "Shopping Cart",
       subtitle: 'Project'
     },
     {
-      img: "./assets/images/furniture.webp",
+      img: "public/images/furniture.webp",
       title: "Ecommerce Website",
       subtitle: 'Modification'
     },
     {
-      img: "./assets/images/cuberto.jpg",
+      img: "public/images/cuberto.jpg",
       title: "Cuberto Website",
       subtitle: 'Clone'
     },
@@ -59,14 +59,14 @@ let portCardData = [
     {
       name: 'Dale Marshall',
       role: 'randomuser',
-      img: "./assets/images/Dale.jpg",
+      img: "public/images/Dale.jpg",
       desc: "Najam-us-Saqib is a skilled frontend web developer who crafted a responsive, user-friendly website exceeding our expectations. His expertise in HTML, CSS, JavaScript, and React was impressive. Highly recommended!"
 
     },
     {
       name: 'Rafael Wallace',
       role: 'randomuser',
-      img: "./assets/images/Rafael.jpg",
+      img: "public/images/Rafael.jpg",
       desc: "He is a talented whiteboard animator who brought our story to life with engaging visuals and motion. His creativity and attention to detail resulted in an captivating animation that exceeded our expectations. Highly recommended!"
 
     },
